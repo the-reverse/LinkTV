@@ -18,3 +18,15 @@
     <tr><th>Serial</th><td>Yes</td></tr>
   </tbody>
 </table>
+
+## Photos
+![Main-Board Front](https://github.com/user-attachments/assets/f3dab22d-9ce0-4847-9298-59ab357b23ac)
+
+- indicates
+  - on board `YC 4S-V0 94V-0`
+
+![Main-Board Back](https://github.com/user-attachments/assets/3bd6b9d4-b77f-46b7-bf4c-5fe8a0309aef)
+
+- indicates
+  - in sticker `ZP-800 MN1B0016200355`
+  - on board `150041611192 Ver:04`
