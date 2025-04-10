@@ -4,7 +4,7 @@
 We got the source code by GPL disclosure request.
 - [uClibc-0.9.30.3](https://github.com/the-reverse/LinkTV-uClibc)
 - [linux-2.6.12](https://github.com/the-reverse/LinkTV-linux)
-- [busybox-1.1.3](https://github.com/the-reverse/LinkTV-linux)
+- [busybox-1.1.3](https://github.com/the-reverse/LinkTV-busybox)
 
 ## Boot Log
 
