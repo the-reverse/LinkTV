@@ -1,5 +1,16 @@
 # [IO-DATA LinkTV](https://www.iodata.jp/product/av/mp/linktv/) / [epro LinkTV-Pro](https://epro.bz/linktv.html)
 
+## Source Code
+We got the source code by GPL disclosure request.
+- [uClibc-0.9.30.3](https://github.com/the-reverse/LinkTV-uClibc)
+- [linux-2.6.12](https://github.com/the-reverse/LinkTV-linux)
+- [busybox-1.1.3](https://github.com/the-reverse/LinkTV-linux)
+
+## Boot Log
+
+- [dmesg log](https://gist.github.com/yanorei32/979a4e7dee6b0efc7560ca78ff916cc0#file-iodata_linktv-pro_dmesg-log)
+- [Serial log](https://gist.github.com/yanorei32/979a4e7dee6b0efc7560ca78ff916cc0#file-iodata_linktv-pro_reboot-log)
+
 ## Hardware
 
 <table>
